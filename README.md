@@ -1,39 +1,66 @@
-# vCard - Personal portfolio
+# vCard - Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+vCard is a fully responsive personal portfolio website, optimized for all device sizes, built using HTML, CSS, and JavaScript.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+🚀 Project Overview
+Frontend: A static single-page application showcasing your personal information, skills, projects, and social links.
 
+Design: Responsive layout with light/dark mode and customizable color themes.
 
+✨ Features
+Clean and professional design
 
-## Prerequisites
+Light/Dark mode toggle
 
-Before you begin, ensure you have met the following requirements:
+Personal info, skills, projects, and contact sections
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Easy customization by editing HTML and CSS files
 
-## Installing vCard
+No backend or database required
 
-To install **vCard**, follow these steps:
+🛠️ Tech Stack
+HTML
 
-Linux and macOS:
+CSS
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+JavaScript
 
-Windows:
-
-```bash
+📁 Folder Structure
+text
+vCard/
+├── assets/
+│   ├── css/
+│   └── images/
+├── js/
+│   └── main.js
+├── index.html
+└── README.md
+⚡ Getting Started
+Installation
+bash
 git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+cd vcard-personal-portfolio
+Running the Website Locally
+Open the index.html file in your preferred web browser.
 
+👤 Customization
+Edit the index.html file to update your personal details, projects, and social links.
 
+Modify the CSS files in assets/css/ to change colors and styles to your liking.
 
-## License
+🧪 Testing
+No automated tests available.
 
-MIT
+Test responsiveness manually across different devices and browsers.
+
+🤝 Contribution
+Fork the repository.
+
+Create a feature branch (git checkout -b feature/your-feature).
+
+Commit your changes (git commit -am 'Add new feature').
+
+Push the branch (git push origin feature/your-feature).
+
+Open a Pull Request.
+
